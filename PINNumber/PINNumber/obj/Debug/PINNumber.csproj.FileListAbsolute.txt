@@ -1,1 +1,6 @@
 C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\bin\Debug\PINNumber.exe.config
+C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\bin\Debug\PINNumber.exe
+C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\bin\Debug\PINNumber.pdb
+C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\obj\Debug\PINNumber.csprojResolveAssemblyReference.cache
+C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\obj\Debug\PINNumber.exe
+C:\Users\henry.luque\Source\Repos\Pi-N-number\PINNumber\PINNumber\obj\Debug\PINNumber.pdb
